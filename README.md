@@ -1,31 +1,4 @@
-<!DOCTYPE html><html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Essem Electronics</title>
-  <style>
-    body { margin: 0; font-family: sans-serif; background: #fff; color: #000; }
-    header, footer { padding: 1.5rem; border-bottom: 1px solid #ccc; display: flex; justify-content: space-between; align-items: center; }
-    footer { border-top: 1px solid #ccc; border-bottom: none; text-align: center; font-size: 0.875rem; color: #666; }
-    nav a { margin-left: 1rem; text-decoration: none; color: #000; }
-    nav a:hover { text-decoration: underline; }
-    section { padding: 2rem; }
-    .text-center { text-align: center; }
-    .text-gray { color: #555; }
-    .max-width { max-width: 800px; margin: 0 auto; }
-    .logo-container { display: flex; align-items: center; gap: 1rem; }
-    .logo { height: 60px; }
-  </style>
-</head>
-<body>
-  <!-- Header -->
-  <header>
-    <div class="logo-container">
-      <img src="logo.png" alt="Essem Electronics Logo" class="logo" />
-      <h1>Essem Electronics</h1>
-    </div>
-    <nav>
-      <a href="#home">Home</a>
+ <a href="#home">Home</a>
       <a href="#about">About</a>
       <a href="#contact">Contact</a>
     </nav>
