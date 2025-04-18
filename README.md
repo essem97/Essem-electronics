@@ -14,8 +14,5 @@
     <p class="text-gray">Email: <a href="mailto:nairobigdc@gmail.com">nairobigdc@gmail.com</a></p>
     <p class="text-gray">You can also reach out to us at <a href="mailto:info@essemelectronics.com">info@essemelectronics.com</a>.</p>
   </section>  <!-- Footer -->  <footer>
-    &copy; <span id="year"></span> Essem Electronics. All rights reserved.
-  </footer>  <script>
-    document.getElementById("year").textContent = new Date().getFullYear();
-  </script></body>
-</html>
+    &copy; <span id="year"></span> Essem Electronics. All rights reserved 2025.
+  </footer> 
